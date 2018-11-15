@@ -30,6 +30,7 @@ IGNORE_FILES = ['.git', '.idea', '.DS_Store', '.DS_Store', '.gitignore', 'baidub
 ## 第四步
 #### 打包并上传技能
 	$ python packaging.py
+	
 	CFC zip packaging successful.
 	CFC zip update successful.
 ## 其他
