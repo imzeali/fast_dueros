@@ -1,5 +1,5 @@
 # fast_dueros
-fast_dueros 是百度dueros语音交互技能快速开发框架。框架主逻辑引用来自 [bot-sdk-python](https://github.com/jokenwang/bot-sdk-python) 项目。
+一个百度dueros语音交互技能python快速开发框架。集成了 python-sdk [bot-sdk-python](https://github.com/jokenwang/bot-sdk-python) 。
 
 # 功能简介
 	1、Dueros智能音箱技能开发
